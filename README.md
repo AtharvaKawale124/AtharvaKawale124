@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Kawale</h1>
-(img align="right" alt="Coding" width="400" src="[![@gamerak124's Holopin board](https://holopin.me/gamerak124)](https://holopin.io/@gamerak124)")
+
+[![@gamerak124's Holopin board](https://holopin.me/gamerak124)](https://holopin.io/@gamerak124)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvakawale124&label=Profile%20views&color=0e75b6&style=flat" alt="atharvakawale124" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvakawale124" alt="atharvakawale124" /></a> </p>
