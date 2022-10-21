@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **atharvakawale.ajk@gmail.com**
 
+- **He/Him**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/atharvakawale124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atharvakawale124" height="30" width="40" /></a>
