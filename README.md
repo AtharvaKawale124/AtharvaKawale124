@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvakawale124" alt="atharvakawale124" /></a> </p>
 
-- 🌱 I’m currently learning **C++ & Python DSA, JavaScript and Oracle**
+- 🌱 I’m currently learning **C++ & Python ,Java DSA, Full Stack Web Dev**
 
 - 📫 How to reach me **atharvakawale.ajk@gmail.com**
 
